@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Trgovina.Core/Trgovina.Core.csproj" />
+  <Project Path="Trgovina.Tests/Trgovina.Tests.csproj" />
+  <Project Path="Trgovina/Trgovina.csproj" />
+</Solution>

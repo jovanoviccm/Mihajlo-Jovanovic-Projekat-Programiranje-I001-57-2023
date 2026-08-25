@@ -1,0 +1,12 @@
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\bin\Debug\net10.0\Trgovina.Core.deps.json
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\bin\Debug\net10.0\Trgovina.Core.dll
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\bin\Debug\net10.0\Trgovina.Core.pdb
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\Trgovina.Core.csproj.AssemblyReference.cache
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\Trgovina.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\Trgovina.Core.AssemblyInfoInputs.cache
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\Trgovina.Core.AssemblyInfo.cs
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\Trgovina.Core.csproj.CoreCompileInputs.cache
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\Trgovina.Core.dll
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\refint\Trgovina.Core.dll
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\Trgovina.Core.pdb
+D:\VSC proogramiranje\TrgovinaProjekat\Trgovina.Core\obj\Debug\net10.0\ref\Trgovina.Core.dll
